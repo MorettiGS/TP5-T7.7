@@ -1,4 +1,4 @@
-# Trabalho_Pratico_OO
+# Trabalho Prático - OO
 
 Trabalho Prático ( Projeto Final ) da disciplina de Orientação a Objetos.
 
